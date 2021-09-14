@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lllazarrr
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in Data Science and Web programming.
+- 🌱 I’m currently learning Python and JS with React.
 - 💞️ I’m looking to collaborate on introductory Data Science or Python projects.
 - 📫 You can reach me via emaail at lllazarrr@gmail.com
 
